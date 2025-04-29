@@ -8,7 +8,7 @@
 <br/>
 <br/>
 
-***<p align="center"> [<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/website.png">](https://web.programming-hero.com)[<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/facebook.png">](https://www.facebook.com/share/1ByJK3UyPG/)[<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/linkedin.png">](https://www.linkedin.com/company/programminghero/mycompany/) </p>***
+***<p align="center">[<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/facebook.png">](https://www.facebook.com/share/1ByJK3UyPG/) </p>***
 
 <br/>
 <br/>
