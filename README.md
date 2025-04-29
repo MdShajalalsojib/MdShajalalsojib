@@ -3,7 +3,7 @@
 </a>
 
 
-## :mailbox: Contact with us
+##  
 
 <br/>
 <br/>
@@ -38,18 +38,11 @@
 
 <br />
 
-<p align="center">
-<a href="https://web.programming-hero.com/course-details">
-<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/curriculum.png"/>
-</a>
-</p>
+ 
 
 <br/>
 <br/>
 
-## :globe_with_meridians: Our community_
-
-***<p align="center"> [<img width="350" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/community-fb.png">](https://www.facebook.com/groups/programmingherocommunity/)[<img  width="350" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/community-yt.png">](https://www.youtube.com/@ProgrammingHeroCommunity) </p>***
-
+ 
 <br/>
 <br/>
