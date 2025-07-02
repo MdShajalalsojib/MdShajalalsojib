@@ -1,3 +1,5 @@
+![Project Screenshot](./img/Dark%20Blue%20Pixel%20Retro%20Digital%20Marketing%20LinkedIn%20Article%20Cover%20Image.jpg)
+
 <a href="">
 <img src="//img/Github Banner.gif" />
 </a>
