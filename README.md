@@ -5,7 +5,8 @@
 ## About me
 
 
-
+</br>
+</br>
 
 <h1>Social media </h1>
 
@@ -20,10 +21,6 @@
 
 </p>
 
-<br/>
-<br/>
-
- 
 
 ## :bulb: Skill
 
