@@ -77,4 +77,4 @@ I'm a Computer Science & Engineering student who enjoys building clean, function
   <a href="https://www.linkedin.com/in/md-shahjalal-sojib-327578352?utm_source=share_via&utm_content=profile&utm_medium=member_android "><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p align="center">⚡ Always learning. Always building. Always improving.</p>
+ 
