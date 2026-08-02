@@ -1,6 +1,4 @@
-![Project Screenshot](./img/Dark%20Blue%20Pixel%20Retro%20Digital%20Marketing%20LinkedIn%20Article%20Cover%20Image.jpg)
-
-![Project Screenshot](./img/Github%20Banner.gif)
+ 
 
  <h1 align="center">Hi 👋, I'm Md. Shajalal Sojib</h1>
 
@@ -13,6 +11,9 @@
 </p>
 
 <h3 align="center">Frontend Developer</h3>
+![Project Screenshot](./img/Dark%20Blue%20Pixel%20Retro%20Digital%20Marketing%20LinkedIn%20Article%20Cover%20Image.jpg)
+
+![Project Screenshot](./img/Github%20Banner.gif)
 
 ---
 
@@ -23,9 +24,8 @@ I'm a Computer Science & Engineering student who enjoys building clean, function
 - 🎯 **Focus:** Frontend Development & UI/UX Design
 - 🧰 **Stack:** JavaScript, React, Node.js, Tailwind CSS
 - 🚀 **Passion:** Clean interfaces & smooth user experiences
-- 🎓 **Goal:** Becoming a Software Engineer
+- 🎓 **Goal:** Software Engineer
 
-> *Great products start with great fundamentals and consistent practice.*
 
 ---
 
@@ -37,25 +37,15 @@ I'm a Computer Science & Engineering student who enjoys building clean, function
 
 | Category | Skills |
 |---|---|
-| 🎨 **Frontend** | HTML `95%` · CSS `90%` · JavaScript `85%` · Tailwind `80%` · React `75%` |
-| ⚙️ **Backend & DB** | Node.js `73%` · MySQL `80%` · Firebase `70%` |
-| 🧠 **Languages** | C `80%` · Python `70%` · Java |
-| 🎨 **Design & Tools** | Figma `83%` · Git · GitHub · VS Code |
+| 🎨 **Frontend** | HTML5 · CSS   · JavaScript   · TailwindCSS · React   |
+| ⚙️ **Backend & DB** | Node.js  · MySQL · Firebase  |
+| 🧠 **Languages** | C · C++ · Python  · Java |
+| 🎨 **Design & Tools** | Figma   · Git · GitHub · VS Code |
 
 ---
 
-### 📌 Project Journey
+ 
 
-**✅ Featured Projects**
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🏥 **Hospital Management System** | Manage patients, doctors & appointments efficiently | HTML, CSS, JavaScript |
-| 📚 **Book Vibe Resources** | Book app with home page, detail view, and JS/React tab system | React, JavaScript, API |
-| 🖩 **Calculator (my-vue-app)** | Simple, elegant calculator app | Vue.js |
-| 🧠 **Quiz App** | Interactive quiz with score tracking & timer | JavaScript, CSS |
-| 🎓 **Student Result System** | Manage & calculate student results automatically | HTML, CSS, PHP, MySQL |
-| 🌐 **Portfolio Website** | Fully responsive personal portfolio website | HTML, CSS, JavaScript |
 
 **📚 Practice & Coursework**
 
@@ -86,29 +76,14 @@ I'm a Computer Science & Engineering student who enjoys building clean, function
 
 ---
 
-### 📈 Weekly Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdShajalalsojib&theme=react-dark" alt="Activity Graph" />
-</p>
-
----
-
-### 🏆 Quick Facts
-
-- 🚀 10+ Projects built
-- 📜 5+ Certificates earned
-- ⏳ 2+ Years learning to code
-- 🧩 100+ Coding problems solved
-
----
 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.facebook.com/md.shahjalalcowdsury"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/md.shajalalsojib"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:mdshahjalalsojib@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.facebook.com/share/194z9YXrfs/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/md.shajalal_?igsh=d214am9oZ2cxa3o2"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/md-shahjalal-sojib-327578352?utm_source=share_via&utm_content=profile&utm_medium=member_android "><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">⚡ Always learning. Always building. Always improving.</p>
