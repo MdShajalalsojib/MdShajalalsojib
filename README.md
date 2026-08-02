@@ -1,16 +1,12 @@
  
 
- <h1 align="center">Hi 👋, I'm Md. Shajalal Sojib</h1>
+ <h1 align="center">Hi 👋, I'm Md. Shajalal</h1>
 
 <p align="center">
   💻 Frontend Developer | 🎨 UI/UX Enthusiast | 🧩 Problem Solver
 </p>
 
-<p align="center">
-  Building modern web experiences with clean code, thoughtful design, and a love for learning.
-</p>
 
-<h3 align="center">Frontend Developer</h3>
 ![Project Screenshot](./img/Dark%20Blue%20Pixel%20Retro%20Digital%20Marketing%20LinkedIn%20Article%20Cover%20Image.jpg)
 
 ![Project Screenshot](./img/Github%20Banner.gif)
@@ -62,17 +58,12 @@ I'm a Computer Science & Engineering student who enjoys building clean, function
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdShajalalsojib&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+ 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdShajalalsojib&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdShajalalsojib&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
